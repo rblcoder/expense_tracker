@@ -5,3 +5,4 @@ matplotlib
 uvicorn
 pandas
 seaborn
+psycopg2-binary
